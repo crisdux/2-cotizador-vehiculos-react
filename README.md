@@ -1,1 +1,2 @@
-## Presentacion del proyecto
+## Vista previa  del proyecto
+![image](./miimg.png)
